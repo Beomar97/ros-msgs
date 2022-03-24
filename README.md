@@ -1,2 +1,2 @@
 # fszhaw_msgs
-Ros mesages for the Driverless autonomus system
+Default ROS messages for the FSZHAW Driverless team
